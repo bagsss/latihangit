@@ -1,0 +1,287 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+header{
+	background:#ffa500;
+	height:70px;
+}
+.logo
+{
+	margin-top:10px;
+	height:50px;
+	float: left;
+}
+article
+{
+  background-image:url(back.jpg);
+  height: 100vh;
+  background-size:cover;
+}
+.main-nav
+{
+  float: right;
+  list-style: none;
+  margin-top: 30px;
+}
+
+.main-nav1
+{
+  float: right;
+  list-style: none;
+  margin-top: 30px;
+}
+
+.main-nav1 li
+{
+  display: inline-block;
+}
+.main-nav1 li a
+{
+  color: white;
+  text-decoration: none;
+  padding: 5px 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+
+.main-nav1 li.active a
+{
+  border: 1px solid grey;
+  background-color: grey;
+}
+
+.main-nav1 li a:hover
+{
+ border: 1px solid grey;
+}
+
+ .main-nav1 li
+ {
+   display: inline-block;
+ }
+ .main-nav1 li a
+ {
+   color: white;
+   text-decoration: none;
+   padding: 5px 20px;
+   font-family: "Roboto", sans-serif;
+   font-size: 15px;
+ }
+
+ .main-nav2
+ {
+   float: right;
+   list-style: none;
+   margin-top: 30px;
+ }
+
+ .main-nav2 li.active a
+ {
+   border: 1px solid grey;
+   background-color: grey;
+ }
+
+ .main-nav2 li a:hover
+{
+  border: 1px solid grey;
+}
+
+.main-nav2 li
+{
+  display: inline-block;
+}
+.main-nav2 li a
+{
+  color: white;
+  text-decoration: none;
+  padding: 5px 20px;
+  font-family: "Roboto", sans-serif;
+  font-size: 15px;
+}
+body
+{
+  font-family: monospace;
+}
+
+.row
+{
+  max-width: 1500px;
+  margin: auto;
+}
+
+.hero
+{
+  position: absolute;
+  width: 800px;
+  height: auto;
+  margin-left: 375px;
+  margin-top: 50px;
+}
+
+.herouser
+{
+  position: absolute;
+  width: 800px;
+  height: auto;
+  margin-left: 375px;
+  margin-top: 50px;
+}
+
+h1
+{
+  color: white;
+  text-transform: uppercase;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 275px;
+}
+
+p
+{
+  font-size: 15px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.button
+{
+  margin-top: 50px;
+  margin-left: 270px;
+}
+
+.buttonarticle
+{
+  position: absolute;
+  margin-left: 690px;
+  margin-top: 500px
+}
+.buttonarticle1
+{
+  position: absolute;
+  margin-left: 600px;
+  margin-top: 575px
+}
+
+.buttonarticle2
+{
+  position: absolute;
+  margin-left: 700px;
+  margin-top: 675px
+}
+.buttonarticle5
+{
+  position: absolute;
+  margin-left: 675px;
+  margin-top: 675px;
+}
+.buttonadmin
+{
+  position: absolute;
+  margin-left: 550px;
+  margin-top: 500px
+}
+
+.btn
+{
+  border: 1px solid white;
+  padding: 10px 30px;
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+
+.btn1
+{
+  border: 1px solid white;
+  padding: 10px 30px;
+  text-decoration: none;
+  margin-right: 15px;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+
+.btn-satu
+{
+  font-family: "Roboto", sans-serif;
+}
+
+.btn-tiga
+{
+  font-family: "Roboto", sans-serif;
+}
+
+.btn-dua
+{
+  font-family: "Roboto", sans-serif;
+}
+
+.btn-dua:hover
+{
+  background-color: darkorange;
+}
+.btn-satu:hover
+{
+  background-color: darkorange;
+}
+
+.pesanadmin
+{
+  position: absolute;
+  margin-left: 600px;
+  margin-top: 400px;
+}
+
+.formart
+{
+  position: absolute;
+  margin-top: 250px;
+  margin-left: 530px;
+  font-style: "roboto", sans-serif;
+  color: white;
+}
+
+.pesanart
+{
+  position: absolute;
+  margin-top: 125px;
+  margin-left: 350px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 20px;
+  width: 800px;
+}
+
+.page
+{
+  position: absolute;
+  background-color: rgba(0, 0, 0, 0.3);
+  margin-top: 620px;
+  margin-left: 740px;
+  padding: 4px;
+}
+.artikel1
+{
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 300px;
+}
+.readmore
+{
+
+}
+
+h2
+{
+  text-align: center;
+}
+.pesansub
+{
+  position: absolute;
+  margin-left: 575px;
+  margin-top: 400px;
+  color: white;
+}

@@ -1,0 +1,123 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+.logo
+{
+	margin-top:10px;
+	height:50px;
+	float: left;
+}
+header{
+	background:#ffa500;
+	height:70px;
+}
+article
+{
+  background-image: url(back.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+  float: inherit;
+}
+
+.main-nav
+{
+  float: right;
+  list-style: none;
+  margin-top: 25px;
+}
+
+ .main-nav li
+ {
+   display: inline-block;
+ }
+ .main-nav li a
+ {
+   color: white;
+   text-decoration: none;
+   padding: 5px 20px;
+   font-family: "Roboto", sans-serif;
+   font-size: 15px;
+ }
+
+ .main-nav li.active a
+ {
+   border: 1px solid grey;
+   background-color: grey;
+ }
+
+ .main-nav li a:hover
+{
+  border: 1px solid grey;
+}
+
+body
+{
+  font-family: monospace;
+}
+
+.row
+{
+  max-width: 1500px;
+  margin: auto;
+}
+
+.misi
+{
+  border: 2px solid white ;
+  border-radius: 10px;
+  position: absolute;
+  padding: 30px;
+  width: 800px;
+  height: auto;
+  margin-left: 350px;
+  margin-top: 300px;
+  font-size: 20px;
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+h1
+{
+  color: white;
+  text-transform: uppercase;
+  font-size: 70px;
+  text-align: center;
+  margin-top: 275px;
+}
+
+.button
+{
+  margin-top: 50px;
+  margin-left: 270px;
+}
+.btn
+{
+  border: 1px solid white;
+  padding: 10px 30px;
+  color: white;
+  text-decoration: none;
+  margin-right: 15px;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+.btn-satu
+{
+  font-family: "Roboto", sans-serif;
+}
+
+.btn-dua
+{
+  font-family: "Roboto", sans-serif;
+}
+
+.btn-dua:hover
+{
+  background-color: darkorange;
+}
+.btn-satu:hover
+{
+  background-color: darkorange;
+}

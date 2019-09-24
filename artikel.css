@@ -1,0 +1,42 @@
+.judulonly
+{
+  text-align: center;
+  margin-top: 75px;
+}
+.isiartikel3
+{
+  margin: 30px 400px;
+  text-align: justify;
+}
+.btn
+{
+  border: 1px solid black;
+  background-color: black;
+  padding: 10px 30px;
+  color: darkorange;
+  text-decoration: none;
+  margin-right: 15px;
+  font-size: 13px;
+  text-transform: uppercase;
+}
+.btn-satu
+{
+  font-family: "Roboto", sans-serif;
+}
+.buttonarticle2
+{
+  position: inherit;
+  margin-left: 700px;
+  margin-top: 50px;
+  margin-bottom: 100px
+}
+.gambar img
+{
+  display: block;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 600px;
+  height: auto;
+}
